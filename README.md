@@ -194,5 +194,5 @@ logo, and combinations thereof are trademarks of Advanced Micro Devices, Inc.
 OpenCL and the OpenCL logo are trademarks of Apple Inc. used by permission by
 Khronos. Other names are for informational purposes only and may be trademarks
 of their respective owners.
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
